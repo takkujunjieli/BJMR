@@ -14,7 +14,7 @@ Before you can run the app, you need to have the following software installed on
 1. Clone the repository to your local machine:
 
 ```
-https://github.com/nz-m/SocialEcho.git
+https://github.com/takkujunjieli/BJMR.git
 ```
 
 2. Navigate to the project directory:
@@ -66,7 +66,7 @@ To use the `/classify` endpoint, send a POST request to `http://localhost:5000/c
 
 ```json
 {
-  "text" : "Python is a high-level programming language that is widely used for web development, scientific computing, data analysis, artificial intelligence, and more."
+  "text": "Python is a high-level programming language that is widely used for web development, scientific computing, data analysis, artificial intelligence, and more."
 }
 ```
 

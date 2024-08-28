@@ -3,8 +3,6 @@
 An anonymous board for academic job discussion in business schools.
 [Watch Demo]()
 
-![UI-community]()
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
